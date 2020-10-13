@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=leeranzhi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/leeranzhi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeranzhi)](https://github.com/leeranzhi/github-readme-stats)
+<img align="center" src=https://github-readme-stats.vercel.app/api?username=leeranzhi&count_private=true&show_icons=true&include_all_commits=true>
+<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=leeranzhi>
 
 <!--
 **leeranzhi/leeranzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
