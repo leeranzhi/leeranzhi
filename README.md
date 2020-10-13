@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/leeranzhi">
-<img align="center" src=https://github-readme-stats.vercel.app/api?username=leeranzhi&count_private=true&show_icons=true&include_all_commits=true>
+<img align="center" src=https://github-readme-stats.vercel.app/api?username=leeranzhi&count_private=true&show_icons=true&include_all_commits=true/>
 </a>
 <a href="https://github.com/leeranzhi">
-<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=leeranzhi&layout=compact>
+<img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=leeranzhi&layout=compact/>
 </a>
 
 <!--
